@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+AssignmentII/2011-capitalbikeshare-tripdata.csv
+AssignmentII/2012-capitalbikeshare-tripdata/
+
+
 # Distribution / packaging
 .Python
 venv/
@@ -26,6 +30,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
